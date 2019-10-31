@@ -1,0 +1,9 @@
+jupyter
+keyboard
+gym
+tensorflow
+scikit-learn
+numpy
+matplotlib
+collections
+random
